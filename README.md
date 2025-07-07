@@ -1,3 +1,5 @@
+**This entire project was made with Ai**
+
 # Fractal Generator
 
 ## Contents:
